@@ -48,7 +48,16 @@
       "area": "MSc Business Analytics and Big Data",
       "studyType": "Masters",
       "startDate": "2020-11-01",
-      "endDate": "2022-02-01"
+      "endDate": "2022-02-01",
+      "result": "Distinction",
+      "location": "Liverpool, United Kingdom",
+      "keyModules": [
+        "Data Mining & Machine Learning",
+        "Big Data Analytics",
+        "Enterprise Systems with SAP",
+        "Digital Business Technology and Management",
+        "Digital Strategy"
+      ]
     },
     {
       "institution": "Asian Institute of Management and Technology",
@@ -136,7 +145,7 @@
       "url": "",
       "startDate": "2022-02-01",
       "endDate": "2024-03-01",
-      "summary": "Architected data warehouse solutions and led development of scalable ETL pipelines for financial data processing.",
+      "summary": "Architected complete data warehouse solutions and led development of scalable ETL pipelines for financial data processing.",
       "highlights": [
         "Architected Kimball style star schema data warehouse using Elasticsearch and BigQuery",
         "Led implementation of scalable ETL pipelines with Python, GCP Dataflow, and Apache Airflow",
