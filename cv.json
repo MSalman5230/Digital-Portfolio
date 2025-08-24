@@ -87,7 +87,7 @@
       "name": "Helixiora",
       "position": "Senior Data Engineer & AI Solutions Architect",
       "location_type": "Remote",
-      "location": "Netherlands",
+      "location": "The Hague, Netherlands",
       "url": "",
       "startDate": "2024-04-01",
       "endDate": null,
@@ -104,31 +104,35 @@
          "Designed, built, and deployed an end-to-end Azure data pipeline using App Functions and CosmosDB, applying Kimball dimensional modeling for Power BI datasets with DAX-based measures, enabling KPI reporting and forecasting",
          "Led development of a full-stack AI SaaS app (Android and iOS) leveraging OpenAI Assistant API with a FastAPI backend, React Native (Expo) frontend, and PostgreSQL database, including OAuth 2.0 authentication and integrated Stripe payment processing",
          "Designed and implemented end-to-end CI/CD pipelines for fully automated deployment of containerized applications to AWS, ECS using Docker, Docker Compose, and infrastructure-as-code best practices (Terraform)",
-         "Secured and deployed SaaS applications with SSL, reverse proxies, Zero Trust controls, and firewall rules, optimising load balancing for high availability",
+         "Secured and deployed SaaS applications with SSL, reverse proxies, Zero Trust controls, and firewall rules, optimising load balancing for high availability, and set up logging and monitoring with Prometheus and Grafana to ensure system reliability and observability.",
          "Provided technical mentorship and conducted code reviews for junior and mid-level engineers, promoting best practices, improving code quality, and accelerating team growth"
        ],
-      "skills": {
-        "Python": "simple-icons:python",
-        "Databricks": "simple-icons:databricks",
-        "PySpark": "simple-icons:apachespark",
-        "Delta Lake": "simple-icons:delta",
-        "Langchain": "simple-icons:langchain",
-        "Pinecone": "mdi:database-search",
-        "React Native": "mdi:react",
-        "PostgreSQL": "simple-icons:postgresql",
-        "MySQL": "simple-icons:mysql",
-        "Docker": "mdi:docker",
-        "AWS": "simple-icons:amazonaws",
-        "Azure": "simple-icons:microsoftazure",
-        "Terraform": "simple-icons:terraform",
-        "Git": "mdi:git"
-      }
+             "skills": {
+         "Python": "simple-icons:python",
+         "Databricks": "simple-icons:databricks",
+         "PySpark": "simple-icons:apachespark",
+         "Delta Lake": "simple-icons:delta",
+         "Langchain": "simple-icons:langchain",
+         "Pinecone": "mdi:database-search",
+         "React Native": "mdi:react",
+         "PostgreSQL": "simple-icons:postgresql",
+         "MySQL": "simple-icons:mysql",
+         "Docker": "mdi:docker",
+         "AWS": "simple-icons:amazonaws",
+         "Azure": "simple-icons:microsoftazure",
+         "Terraform": "simple-icons:terraform",
+         "Git": "mdi:git",
+         "Prometheus": "simple-icons:prometheus",
+         "Grafana": "simple-icons:grafana",
+         "SSL": "mdi:lock",
+         "Nginx": "simple-icons:nginx"
+       }
     },
     {
       "name": "Vaultoro",
       "position": "Senior Data Engineer",
-      "location_type": "Remote",
-      "location": "United Kingdom",
+      "location_type": "On-Site",
+      "location": "London, United Kingdom",
       "url": "",
       "startDate": "2022-02-01",
       "endDate": "2024-03-01",
@@ -445,17 +449,50 @@
         "Reporting"
       ]
     },
-    {
-      "name": "Scrapy",
-      "icon": "simple-icons:scrapy",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Scraping",
-        "Data Collection",
-        "Python",
-        "Automation"
-      ]
-    }
+         {
+       "name": "Scrapy",
+       "icon": "simple-icons:scrapy",
+       "level": "Intermediate",
+       "keywords": [
+         "Web Scraping",
+         "Data Collection",
+         "Python",
+         "Automation"
+       ]
+     },
+     {
+       "name": "Prometheus",
+       "icon": "simple-icons:prometheus",
+       "level": "Intermediate",
+       "keywords": [
+         "Monitoring",
+         "Metrics",
+         "Observability",
+         "DevOps"
+       ]
+     },
+     {
+       "name": "Grafana",
+       "icon": "simple-icons:grafana",
+       "level": "Intermediate",
+       "keywords": [
+         "Data Visualization",
+         "Monitoring",
+         "Dashboards",
+         "Observability"
+       ]
+     },
+     {
+       "name": "Nginx",
+       "icon": "simple-icons:nginx",
+       "level": "Intermediate",
+       "keywords": [
+         "Web Server",
+         "Reverse Proxy",
+         "Load Balancing",
+         "High Availability"
+       ]
+     }
   ],
   "languages": [
     {

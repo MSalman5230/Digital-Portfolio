@@ -58,9 +58,7 @@ implementing data platforms, AI solutions, and cloud-based applications.
     automated deployment of containerized applications to AWS, ECS using
     Docker, Docker Compose, and infrastructure-as-code best practices
     (Terraform).\
--   Secured and deployed SaaS applications with SSL, reverse proxies,
-    Zero Trust controls, and firewall rules, optimising load balancing
-    for high availability.\
+-   Secured and deployed SaaS applications with SSL, reverse proxies, Zero Trust controls, and firewall rules, optimising load balancing for high availability, and set up logging and monitoring with Prometheus and Grafana to ensure system reliability and observability.\
 -   Provided technical mentorship and conducted code reviews for junior
     and mid-level engineers, promoting best practices, improving code
     quality, and accelerating team growth.
