@@ -51,6 +51,25 @@ const { city, region, address } = location
             )
           })
         }
+      </footer>
+      
+      <!-- CV Download Button - Separate row below other links -->
+      <div class='mt-4 print:hidden'>
+        <a
+          href="/Masood_CV.pdf"
+          title="Download CV (PDF)"
+          target='_blank'
+          rel='noopener noreferrer'
+          class='inline-flex items-center gap-2 px-4 py-2 bg-skin-hue text-skin-inverted rounded-lg hover:bg-skin-button-accent-hover transition-all duration-300 font-medium'
+          download="Masood_CV.pdf">
+          <Icon
+            name='mdi:file-download'
+            width={24}
+            height={24}
+          />
+          Download CV in PDF
+        </a>
+      </div>
 
       </footer>
     </div>
