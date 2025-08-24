@@ -2,234 +2,391 @@
   "analyticsCode": "",
   "pageLayout": "two-column",
   "basics": {
-    "name": "MiraHikari",
-    "label": "Senior Full Stack Developer",
-    "image": "/avatar.png",
-    "email": "mirahikari@gcxstudio.cn",
-    "url": "https://www.gcxstudio.cn",
-    "summary": "Born in 2010, I primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
-    "theme": "red",
+    "name": "Masood Salman Choudhury",
+    "label": "Senior Data Engineer & AI Solutions Architect",
+    "image": "/DP_cropped.jpg",
+    "email": "MSalman5230@gmail.com",
+    "url": "https://msalman.de",
+    "summary": "Senior Data Engineer & AI Solutions Architect with 5+ years' experience delivering end-to-end data platforms and intelligent applications across fintech, SaaS, and industrial analytics. Expert in designing scalable data pipelines, building AI-powered systems with LLMs and machine learning models, and deploying robust cloud-native solutions on AWS, Azure, and GCP.",
+    "theme": "blue",
     "location": {
-      "address": "Nanchang",
-      "city": "Jiangxi Province",
-      "countryCode": "CN",
-      "region": "China"
+      "address": "Manchester",
+      "city": "Manchester",
+      "countryCode": "GB",
+      "region": "United Kingdom"
     },
     "profiles": [
       {
-        "network": "Bilibili",
-        "icon": "ri:bilibili-line",
-        "username": "MiraHikari",
-        "url": "https://space.bilibili.com/480025691"
-      },
-      {
-        "network": "QQ",
-        "icon": "ri:qq-fill",
-        "username": "Gong_cx",
-        "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=3175992523"
+        "network": "LinkedIn",
+        "icon": "mdi:linkedin",
+        "username": "MSalman5230",
+        "url": "https://linkedin.com/in/MSalman5230"
       },
       {
         "network": "GitHub",
         "icon": "mdi:github",
-        "username": "MiraHikari",
-        "url": "https://github.com/MiraHikari"
+        "username": "MSalman5230",
+        "url": "https://github.com/MSalman5230"
+      },
+      {
+        "network": "Website",
+        "icon": "mdi:web",
+        "username": "msalman.de",
+        "url": "https://msalman.de"
       }
     ],
     "beian": {
-      "mint": "赣ICP备2021005460号-1",
-      "police": "赣公网安备 36010302000349号"
+      "mint": "",
+      "police": ""
     }
   },
-  "images": {
-    "intro": "Photography is the art of light, and images are the contours of memory.",
-    "list": [
-      {
-        "image": "https://i0.hdslb.com/bfs/article/6720a7355fd11b9666e2716cadf04e45480025691.jpg@90q_1e_1c.webp",
-        "alt": "Sunset in Nanchang",
-        "desc": "Shot on a sunny day in Nanchang. 2024.10.05"
-      },
-      {
-        "image": "https://i0.hdslb.com/bfs/article/82f680f56532d942f74d86801abf49ea480025691.jpg@90q_1e_1c.webp",
-        "alt": "My Cat",
-        "desc": "A Ragdoll cat who stayed for a year. She's a girl."
-      },
-      {
-        "image": "https://i0.hdslb.com/bfs/article/14e6ae3c368b0eddeeb2b5c338239486480025691.jpg@90q_1e_1c.webp",
-        "alt": "Emoji",
-        "desc": "True, dude"
-      },
-      {
-        "image": "https://i0.hdslb.com/bfs/article/fe1737e9d7b6c2b21eedaf60b6dc9f86480025691.jpg@90q_1e_1c.webp",
-        "alt": "Cat Kernel Crashed",
-        "desc": "Cat Kernel Crashed"
-      }
-    ]
-  },
+
   "education": [
     {
-      "institution": "Nanchang No.27 Middle School",
+      "institution": "University of Liverpool",
       "url": "",
-      "area": "Regular Student",
-      "studyType": "Full-time student",
-      "startDate": "2021-9-01",
-      "endDate": null
+      "area": "MSc Business Analytics and Big Data",
+      "studyType": "Masters",
+      "startDate": "2020-11-01",
+      "endDate": "2022-02-01"
+    },
+    {
+      "institution": "Asian Institute of Management and Technology",
+      "url": "",
+      "area": "Bachelor of Business Administration",
+      "studyType": "Bachelors",
+      "startDate": "2016-08-01",
+      "endDate": "2019-06-01",
+      "location": "Guwahati, India",
+      "keyModules": ["Statistics", "Mathematics", "Production & Operation Management"],
+      "result": "First-Class"
     }
   ],
   "certificates": [
     {
-      "name": "Success has lived a day in the world.",
-      "date": "2010-04-14",
+      "name": "IBM Data Science Professional Certificate",
+      "date": "",
       "url": "",
-      "issuer": "Myself"
+      "issuer": "IBM"
     },
     {
-      "name": "TCCP - Senior Cloud Architecture Engineer",
-      "date": "2023-05-01",
+      "name": "Microsoft Certified: Azure Fundamentals (AZ-900)",
+      "date": "",
       "url": "",
-      "issuer": "Tencent Cloud"
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "Microsoft Certified: Azure AI Fundamentals (AI-900)",
+      "date": "",
+      "url": "",
+      "issuer": "Microsoft"
     }
   ],
   "work": [
     {
-      "name": "Sgguo Development Team",
-      "position": "Full-stack Developer",
+      "name": "Helixiora",
+      "position": "Senior Data Engineer & AI Solutions Architect",
       "location_type": "Remote",
-      "location": "CN",
-      "url": "https://github.com/Sgguo-Development-Team",
-      "startDate": "2022-06-01",
+      "location": "Netherlands",
+      "url": "",
+      "startDate": "2024-04-01",
       "endDate": null,
-      "summary": "Developing high-availability full-stack projects.",
+      "summary": "Lead data engineer delivering end-to-end solutions for multiple international clients across fintech, enterprise SaaS, and industrial analytics domains.",
       "highlights": [
-        "Enhanced internal workflow efficiency by 30%."
+        "Designed and deployed Azure data pipelines in Databricks (PySpark, SparkSQL) for large-scale data processing",
+        "Led development of enterprise-grade Multi-Stage RAG system combining Python pipelines with LLMs and VectorDB",
+        "Built end-to-end Azure data pipeline using App Functions and CosmosDB with Kimball dimensional modeling",
+        "Developed full-stack AI SaaS app with OpenAI Assistant API, React Native, and PostgreSQL"
       ],
-      "responsibilities": [
-        "Developed and maintained backend services using Node.js and Golang."
-      ],
-      "achievements": [
-        "Implemented a cloud drive and verification code system."
-      ],
+             "responsibilities": [
+         "Designed, built, and deployed Azure data pipelines in Databricks (PySpark, SparkSQL) to ingest large-scale structured and semi-structured datasets from Blob Storage and Azure Cosmos DB, execute complex transformations, and persist curated features in Delta Lake for downstream machine learning workflows",
+         "Led development of an enterprise-grade Multi-Stage RAG system for clients, combining Python-based data pipelines (Google Drive, Slack) with LLMs, Langchain, Reranker, and Pinecone VectorDB to deliver highly accurate, context-aware retrieval workflows",
+         "Designed, built, and deployed an end-to-end Azure data pipeline using App Functions and CosmosDB, applying Kimball dimensional modeling for Power BI datasets with DAX-based measures, enabling KPI reporting and forecasting",
+         "Led development of a full-stack AI SaaS app (Android and iOS) leveraging OpenAI Assistant API with a FastAPI backend, React Native (Expo) frontend, and PostgreSQL database, including OAuth 2.0 authentication and integrated Stripe payment processing",
+         "Designed and implemented end-to-end CI/CD pipelines for fully automated deployment of containerized applications to AWS, ECS using Docker, Docker Compose, and infrastructure-as-code best practices (Terraform)",
+         "Secured and deployed SaaS applications with SSL, reverse proxies, Zero Trust controls, and firewall rules, optimising load balancing for high availability",
+         "Provided technical mentorship and conducted code reviews for junior and mid-level engineers, promoting best practices, improving code quality, and accelerating team growth"
+       ],
       "skills": {
-        "PHP": "simple-icons:php",
-        "Node": "ri:nodejs-line",
-        "Golang": "simple-icons:go",
-        "Next.js": "ri:nextjs-fill",
-        "React": "mdi:react",
-        "SQL": "simple-icons:mysql",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "NestJS": "simple-icons:nestjs",
-        "Vue": "mdi:vuejs"
+        "Python": "simple-icons:python",
+        "Databricks": "simple-icons:databricks",
+        "PySpark": "simple-icons:apachespark",
+        "Delta Lake": "simple-icons:delta",
+        "Langchain": "simple-icons:langchain",
+        "Pinecone": "mdi:database-search",
+        "React Native": "mdi:react",
+        "PostgreSQL": "simple-icons:postgresql",
+        "MySQL": "simple-icons:mysql",
+        "Docker": "mdi:docker",
+        "AWS": "simple-icons:amazonaws",
+        "Azure": "simple-icons:microsoftazure",
+        "Terraform": "simple-icons:terraform",
+        "Git": "mdi:git"
       }
     },
     {
-      "name": "Riddle Town Team",
-      "position": "Full-stack Developer",
+      "name": "Vaultoro",
+      "position": "Senior Data Engineer",
       "location_type": "Remote",
-      "location": "CN",
-      "url": "https://rth2.gcxstudio.cn",
-      "startDate": "2023-01-01",
-      "endDate": "2024-02-11",
-      "summary": "Led page design and account systems.",
+      "location": "United Kingdom",
+      "url": "",
+      "startDate": "2022-02-01",
+      "endDate": "2024-03-01",
+      "summary": "Architected data warehouse solutions and led development of scalable ETL pipelines for financial data processing.",
       "highlights": [
-        "Completed 95% of project content."
+        "Architected Kimball style star schema data warehouse using Elasticsearch and BigQuery",
+        "Led implementation of scalable ETL pipelines with Python, GCP Dataflow, and Apache Airflow",
+        "Co-led agile development of secure Savings Platform using FastAPI"
       ],
-      "responsibilities": [
-        "Developed complete pages.",
-        "Integrated user-facing elements with server-side logic."
-      ],
-      "achievements": [
-        "Ensured smooth project execution."
-      ],
+             "responsibilities": [
+         "Architected a Kimball style star schema data warehouse using Elasticsearch and BigQuery, enabling real-time KPI dashboards in Kibana and empowering data-driven decision-making for stakeholders",
+         "Led the design and implementation of multiple scalable ETL pipelines with Python, GCP Dataflow, Scrapy, and managed workflow orchestration with Apache Airflow, processing over 10 million financial data rows daily for real-time analytics",
+         "Co-led the agile development of a secure, scalable Savings Platform using FastAPI, delivering the product in 3 months; currently manages $2M+ in monthly customer deposits",
+         "Managed and optimized databases including MongoDB, PostgreSQL, Elasticsearch, and BigQuery by tuning queries, indexes, and partitions, resulting in significant performance improvements",
+         "Conducted deep data analysis with Pandas to detect anomalies and identify potential fraud patterns, enhancing platform security",
+         "Automated data validation workflows using Python scripts, ensuring pipeline integrity and achieving 100% uptime for critical microservices",
+         "Deployed containerized applications with Docker and Kubernetes, ensuring high availability, scalability, and streamlined CI/CD operations",
+         "Developed and implemented a Random Forest classification model to identify high-value clients during signup, enabling personalized onboarding experiences",
+         "Configured and monitored Google Analytics and Tag Manager dashboards to track user behavior and support data-driven marketing strategies"
+       ],
       "skills": {
-        "HTML": "simple-icons:html5",
-        "CSS": "ri:css3-fill",
-        "JavaScript": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "Vite": "simple-icons:vite",
-        "Node": "ri:nodejs-line",
+        "Python": "simple-icons:python",
+        "Elasticsearch": "simple-icons:elasticsearch",
+        "BigQuery": "simple-icons:googlebigquery",
+        "Kibana": "simple-icons:kibana",
+        "GCP": "simple-icons:googlecloud",
+        "FastAPI": "simple-icons:fastapi",
+        "MongoDB": "simple-icons:mongodb",
+        "PostgreSQL": "simple-icons:postgresql",
+        "Apache Airflow": "simple-icons:apacheairflow",
+        "Pandas": "simple-icons:pandas",
         "Docker": "mdi:docker",
-        "WordPress": "ri:wordpress-fill",
-        "Astro": "simple-icons:astro",
-        "SQL": "simple-icons:mysql",
-        "Tailwind": "mdi:tailwind",
-        "React": "mdi:react",
-        "GitHub": "mdi:github",
-        "Git": "mdi:git"
+        "Kubernetes": "simple-icons:kubernetes"
+      }
+    },
+    {
+      "name": "SoftCrop IT",
+      "position": "Data Analyst",
+      "location_type": "On-site",
+      "location": "Guwahati, India",
+      "url": "",
+      "startDate": "2019-06-01",
+      "endDate": "2020-10-01",
+      "summary": "Delivered actionable insights via Tableau dashboards and automated data collection processes.",
+      "highlights": [
+        "Delivered actionable insights via Tableau dashboards (waterfall/cohort analysis)",
+        "Automated competitor data scraping (Scrapy) and ETL into MySQL"
+      ],
+             "responsibilities": [
+         "Delivered actionable insights via Tableau dashboards (waterfall/cohort analysis), improving stakeholder decision-making",
+         "Automated competitor data scraping (Scrapy) and ETL into MySQL, reducing manual effort by 50%",
+         "Analyzed sales and geographic data to guide strategic fibre network expansion"
+       ],
+      "skills": {
+        "Python": "simple-icons:python",
+        "Tableau": "simple-icons:tableau",
+        "MySQL": "simple-icons:mysql",
+        "Scrapy": "simple-icons:scrapy",
+        "Pandas": "simple-icons:pandas"
       }
     }
   ],
   "skills": [
     {
-      "name": "HTML",
-      "icon": "simple-icons:html5",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "icon": "ri:css3-fill",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "icon": "simple-icons:javascript",
+      "name": "Python",
+      "icon": "simple-icons:python",
       "level": "Expert",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
+        "Data Engineering",
+        "Machine Learning",
+        "Backend Development",
+        "Automation"
       ]
     },
     {
-      "name": "Tailwind",
-      "icon": "mdi:tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "icon": "simple-icons:typescript",
+      "name": "Databricks",
+      "icon": "simple-icons:databricks",
       "level": "Expert",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
+        "Data Processing",
+        "Big Data",
+        "PySpark",
+        "Delta Lake"
       ]
     },
     {
-      "name": "Node",
-      "icon": "ri:nodejs-line",
+      "name": "PySpark",
+      "icon": "simple-icons:apachespark",
+      "level": "Expert",
+      "keywords": [
+        "Big Data Processing",
+        "Distributed Computing",
+        "Data Transformation",
+        "ETL Pipelines"
+      ]
+    },
+    {
+      "name": "Delta Lake",
+      "icon": "simple-icons:delta",
+      "level": "Expert",
+      "keywords": [
+        "Data Lake",
+        "ACID Transactions",
+        "Data Versioning",
+        "Big Data Storage"
+      ]
+    },
+    {
+      "name": "Langchain",
+      "icon": "simple-icons:langchain",
+      "level": "Expert",
+      "keywords": [
+        "LLM Integration",
+        "RAG Systems",
+        "AI Applications",
+        "Prompt Engineering"
+      ]
+    },
+    {
+      "name": "Pinecone",
+      "icon": "mdi:database-search",
+      "level": "Expert",
+      "keywords": [
+        "Vector Database",
+        "Semantic Search",
+        "AI Applications",
+        "RAG Systems"
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "mdi:react",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Backend",
+        "Mobile Development",
+        "Cross-platform",
         "JavaScript",
-        "Server"
+        "UI Development"
       ]
     },
     {
-      "name": "SQL",
+      "name": "PostgreSQL",
+      "icon": "simple-icons:postgresql",
+      "level": "Expert",
+      "keywords": [
+        "Database Management",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MySQL",
       "icon": "simple-icons:mysql",
       "level": "Intermediate",
       "keywords": [
-        "Databases",
+        "Database Management",
         "SQL",
         "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Docker",
+      "icon": "mdi:docker",
+      "level": "Expert",
+      "keywords": [
+        "Containerization",
+        "DevOps",
+        "Deployment",
+        "Microservices"
+      ]
+    },
+    {
+      "name": "AWS",
+      "icon": "simple-icons:amazonaws",
+      "level": "Expert",
+      "keywords": [
+        "Cloud Computing",
+        "ECS",
+        "Lambda",
+        "Infrastructure"
+      ]
+    },
+    {
+      "name": "Azure",
+      "icon": "simple-icons:microsoftazure",
+      "level": "Expert",
+      "keywords": [
+        "Cloud Computing",
+        "Functions",
+        "CosmosDB",
+        "Data Platform"
+      ]
+    },
+    {
+      "name": "GCP",
+      "icon": "simple-icons:googlecloud",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud Computing",
+        "BigQuery",
+        "Dataflow",
+        "Pub/Sub"
+      ]
+    },
+    {
+      "name": "Terraform",
+      "icon": "simple-icons:terraform",
+      "level": "Intermediate",
+      "keywords": [
+        "Infrastructure as Code",
+        "DevOps",
+        "Cloud Provisioning",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Git",
+      "icon": "mdi:git",
+      "level": "Expert",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code Management",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Elasticsearch",
+      "icon": "simple-icons:elasticsearch",
+      "level": "Intermediate",
+      "keywords": [
+        "Search Engine",
+        "Data Indexing",
+        "Analytics",
+        "Big Data"
+      ]
+    },
+    {
+      "name": "BigQuery",
+      "icon": "simple-icons:googlebigquery",
+      "level": "Intermediate",
+      "keywords": [
+        "Data Warehouse",
+        "Big Data Analytics",
+        "SQL",
+        "Cloud Storage"
+      ]
+    },
+    {
+      "name": "FastAPI",
+      "icon": "simple-icons:fastapi",
+      "level": "Expert",
+      "keywords": [
+        "Web Framework",
+        "API Development",
+        "Python",
         "Backend"
       ]
     },
@@ -238,297 +395,130 @@
       "icon": "simple-icons:mongodb",
       "level": "Intermediate",
       "keywords": [
-        "Databases",
-        "File",
-        "Data Storage",
+        "NoSQL Database",
+        "Document Storage",
+        "Data Management",
         "Backend"
       ]
     },
     {
-      "name": "Git",
-      "icon": "mdi:git",
+      "name": "Apache Airflow",
+      "icon": "simple-icons:apacheairflow",
       "level": "Intermediate",
       "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "icon": "mdi:github",
-      "level": "Expert",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "icon": "ri:nextjs-line",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "icon": "mdi:react",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Vue",
-      "icon": "mdi:vuejs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Docker",
-      "icon": "mdi:docker",
-      "level": "Intermediate",
-      "keywords": [
-        "Virtual Environments",
-        "Backend"
-      ]
-    },
-    {
-      "name": "NestJS",
-      "icon": "simple-icons:nestjs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "IOC"
-      ]
-    },
-    {
-      "name": "Vite",
-      "icon": "simple-icons:vite",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Build Tool"
-      ]
-    },
-    {
-      "name": "WordPress",
-      "icon": "ri:wordpress-fill",
-      "level": "Intermediate",
-      "keywords": [
-        "PHP",
-        "Fullstack",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "Golang",
-      "icon": "simple-icons:go",
-      "level": "Beginner",
-      "keywords": [
-        "Backend",
-        "Cloud Service"
-      ]
-    },
-    {
-      "name": "Astro",
-      "icon": "simple-icons:astro",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "PHP",
-      "icon": "simple-icons:php",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Nginx",
-      "icon": "simple-icons:nginx",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Web Server"
-      ]
-    },
-    {
-      "name": "Tauri",
-      "icon": "simple-icons:tauri",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Rust",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Rust",
-      "icon": "simple-icons:rust",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Socket.IO",
-      "icon": "simple-icons:socketdotio",
-      "level": "Beginner",
-      "keywords": [
-        "Realtime",
-        "Websocket"
-      ]
-    },
-    {
-      "name": "Electron",
-      "icon": "simple-icons:electron",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Shell",
-      "icon": "simple-icons:shell",
-      "level": "Intermediate",
-      "keywords": [
-        "Scripting",
+        "Workflow Orchestration",
+        "ETL Pipelines",
+        "Data Engineering",
         "Automation"
       ]
     },
     {
-      "name": "Linux",
-      "icon": "simple-icons:linux",
-      "level": "Intermediate",
-      "keywords": [
-        "OS",
-        "Scripting",
-        "Automation"
-      ]
-    },
-    {
-      "name": "Vercel",
-      "icon": "simple-icons:vercel",
-      "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
-    },
-    {
-      "name": "Netlify",
-      "icon": "simple-icons:netlify",
-      "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
-    },
-    {
-      "name": "Tencent Cloud",
-      "icon": "simple-icons:tencentqq",
-      "level": "Intermediate",
-      "keywords": [
-        "Cloud Service"
-      ]
-    },
-    {
-      "name": "Cloudflare Edge Functions",
-      "icon": "simple-icons:cloudflare",
+      "name": "Pandas",
+      "icon": "simple-icons:pandas",
       "level": "Expert",
       "keywords": [
-        "Serverless",
-        "Edge Computing"
+        "Data Analysis",
+        "Data Manipulation",
+        "Python",
+        "Analytics"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "icon": "simple-icons:kubernetes",
+      "level": "Intermediate",
+      "keywords": [
+        "Container Orchestration",
+        "DevOps",
+        "Scalability",
+        "Microservices"
+      ]
+    },
+    {
+      "name": "Tableau",
+      "icon": "simple-icons:tableau",
+      "level": "Intermediate",
+      "keywords": [
+        "Data Visualization",
+        "Business Intelligence",
+        "Analytics",
+        "Reporting"
+      ]
+    },
+    {
+      "name": "Scrapy",
+      "icon": "simple-icons:scrapy",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Scraping",
+        "Data Collection",
+        "Python",
+        "Automation"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Chinese",
-      "fluency": "Native speaker"
+      "language": "English",
+      "fluency": "Fluent"
     },
     {
-      "language": "English",
-      "fluency": "Intermediate"
+      "language": "Bengali",
+      "fluency": "Native speaker"
     }
   ],
   "interests": [
     {
+      "name": "Data Science",
+      "keywords": [
+        "Machine Learning",
+        "AI",
+        "Big Data Analytics"
+      ]
+    },
+    {
       "name": "Technology",
       "keywords": [
-        "AI",
-        "Blockchain"
+        "Cloud Computing",
+        "DevOps",
+        "Software Architecture"
       ]
     }
   ],
   "references": [
     {
-      "name": "MiraHikari",
-      "reference": "Reference…"
+      "name": "Available upon request",
+      "reference": "Professional references available upon request"
     }
   ],
   "projects": [
     {
-      "name": "Cloudflare Vmail",
-      "image": {
-        "url": "https://i0.hdslb.com/bfs/article/985e2caa8266dee4b9861ee6a341886d480025691.png@1e_1c.webp",
-        "position": "container",
-        "dark": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp"
-      },
-      "isActive": true,
-      "description": "An open source temporary email tool, fully on Cloudflare. Inspired by oiov/vmail",
+      "name": "ETA Prediction for Container Ports using Machine Learning",
+      
+      "isActive": false,
+      "description": "MSc project at University of Liverpool predicting ship delays with 80% accuracy using machine learning techniques.",
       "highlights": [
-        "🎯 Privacy-friendly, no registration required, out-of-the-box",
-        "✨ Support saving passwords and retrieving email addresses",
-        "😄 Support multiple domain name suffixes",
-        "🚀 100% open source, fully based on Cloudflare."
+        "🎯 Predicted ship delays 10+ days in advance with 80% accuracy",
+        "🔧 Cleaned and engineered features using Pandas, NumPy, and Pearson correlation",
+        "🤖 Evaluated multiple ML models (SVM, DT, RF, NN) and selected Random Forest",
+        "🚀 Deployed the model with FastAPI for real-time predictions"
       ],
-      "url": "https://what-the-fuck.sbs",
-      "github": "https://github.com/MiraHikari/cloudflare-vmail"
+      "url": "",
+      "github": ""
     },
     {
-      "name": "Riddle Town Hunt 2",
-      "image": {
-        "url": "https://rth2-webstatic.gbclstudio.cn/wp-content/uploads/2024/02/1707656250-76b2b0d2c94824e89a2b8b2c7d1c6afe.png",
-        "position": "background"
-      },
-      "isActive": false,
-      "description": "Public decryption activity in the form of Puzzle Hunt.",
+      "name": "Diabetes Prediction using XGBoost",
+      
+      "isActive": true,
+      "description": "Personal project for self-learning diabetes prediction using machine learning techniques.",
       "highlights": [
-        "👌 More than 1000 people participated, system runs normally",
-        "😮‍ Use headless CMS: WordPress to storage and manage contents, dynamically render page",
-        "😊 Windows-like interface",
-        "💕 Based on Astro"
+        "📊 Exploratory Data Analysis (EDA) with Seaborn and UMAP visualization",
+        "⚙️ Tuned XGBoost hyperparameters with Optuna and ML-Flow",
+        "🌐 Deployed using Streamlit framework",
+        "🔗 Live Demo available online"
       ],
-      "url": "https://rth2.gcxstudio.cn/"
+      "url": "https://PredictDiabetes.msalman.de",
+      "github": ""
     }
   ]
 }
