@@ -493,8 +493,86 @@
   ],
   "projects": [
     {
+      "name": "Homelab Docker Compose Stack",
+      "isActive": true,
+      "description": "A comprehensive collection of production-ready Docker Compose stacks for self-hosted services, including monitoring, databases, home automation, and infrastructure management tools for personal homelab environment.",
+      "highlights": [
+        "🐳 Designed and deployed 15+ production-ready Docker Compose stacks for self-hosted services",
+        "📊 Implemented comprehensive monitoring stack with Prometheus, Grafana, cAdvisor, and Node Exporter for infrastructure visibility",
+        "🔍 Built Elasticsearch stack for log aggregation and search capabilities with Kibana visualization",
+        "🏠 Integrated Home Assistant for smart home automation and IoT device management",
+        "💾 Configured MySQL and database services with optimized Docker configurations for data persistence",
+        "🚀 Deployed Portainer for container management and orchestration with streamlined deployment workflows",
+        "⚡ Implemented performance testing tools (LibreSpeed, OpenSpeedTest) for network and system benchmarking"
+      ],
+      "url": "https://github.com/MSalman5230/My-Docker-Compose-Stack",
+      "github": "https://github.com/MSalman5230/My-Docker-Compose-Stack"
+    },
+    {
+      "name": "Anime Filler Tagger",
+      "isActive": true,
+      "description": "A Python automation script that automatically tags anime episodes as filler or canon by scraping animefillerlist.com and intelligently renaming files with metadata for better organization and viewing experience.",
+      "highlights": [
+        "🔍 Built automated web scraper to extract episode metadata from animefillerlist.com for accurate filler/canon classification",
+        "📁 Implemented intelligent file renaming system that preserves quality tags while adding filler/canon metadata",
+        "⚙️ Developed configurable system supporting multiple anime series with customizable quality tags and file paths",
+        "🎯 Created smart episode detection algorithm to handle various filename formats and episode numbering schemes",
+        "📊 Automated metadata integration that enhances media library organization and viewing experience",
+        "🚀 Streamlined workflow for anime enthusiasts to efficiently manage large episode collections",
+        "⭐ Achieved 1+ star on GitHub demonstrating practical automation and file management expertise"
+      ],
+      "url": "https://github.com/MSalman5230/Anime_Filler_Tagger",
+      "github": "https://github.com/MSalman5230/Anime_Filler_Tagger"
+    },
+    {
+      "name": "Game Hand Gesture Detection",
+      "isActive": true,
+      "description": "A computer vision-based hand gesture recognition system using TensorFlow and OpenCV for real-time gaming control, enabling hands-free game interaction through custom-trained machine learning models.",
+      "highlights": [
+        "🤖 Built custom hand gesture detection model using TensorFlow transfer learning with SSD MobileNet V2 FPNLite architecture",
+        "📸 Developed automated image collection pipeline for custom hand gesture dataset creation and labeling",
+        "🎯 Implemented real-time hand gesture recognition from video feed for gaming applications",
+        "🎮 Created practical gaming integration demonstrated with Chrome Dino game control",
+        "🔬 Applied transfer learning techniques to optimize model performance for specific gesture recognition tasks",
+        "📊 Structured project workflow with Jupyter notebooks for data collection, training, and detection phases",
+        "⭐ Achieved 2+ stars on GitHub showcasing computer vision and ML expertise"
+      ],
+      "url": "https://github.com/MSalman5230/Game_Hand_Gesture",
+      "github": "https://github.com/MSalman5230/Game_Hand_Gesture"
+    },
+    {
+      "name": "Nvidia DLSS DLL Updater",
+      "isActive": true,
+      "description": "A Python-based automation tool that downloads and applies the latest Nvidia DLSS and DLSS Frame Generation DLLs to local games, ensuring optimal gaming performance and visual quality.",
+      "highlights": [
+        "🔧 Built automated DLL management system for Nvidia DLSS and Frame Generation updates",
+        "🌐 Integrated with TechPowerUp.com API for real-time DLL version monitoring and downloads",
+        "📁 Implemented intelligent file discovery to locate DLSS DLLs across multiple game directories",
+        "💾 Created automated backup system with timestamped naming for safe DLL rollback",
+        "⚙️ Developed configurable system supporting multiple game library paths and server locations",
+        "🚀 Packaged as executable with PyInstaller for easy distribution and deployment",
+        "⭐ Achieved 10+ stars on GitHub demonstrating community recognition and utility"
+      ],
+      "url": "https://github.com/MSalman5230/Nvidia_DLSS_DLL_Updater",
+      "github": "https://github.com/MSalman5230/Nvidia_DLSS_DLL_Updater"
+    },
+    {
+      "name": "Gameloot Stock Alert Bot",
+      "isActive": true,
+      "description": "A Python-based web scraping application that monitors Gameloot.in for PC component stock changes and sends real-time Telegram notifications when products become available or go out of stock.",
+      "highlights": [
+        "🕷️ Built automated web scraper using BeautifulSoup and Python for real-time PC component monitoring",
+        "📊 Implemented MongoDB integration for persistent storage and smart deduplication of products",
+        "🤖 Developed Telegram bot integration for instant stock change notifications",
+        "🔍 Implemented change detection algorithms to identify new products, restocked items, and sold-out products",
+        "📝 Comprehensive logging system with configurable levels for monitoring and debugging",
+        "🚀 Automated deployment with error handling and retry mechanisms for robust operation"
+      ],
+      "url": "https://github.com/MSalman5230/Gameloot-scrape-alert",
+      "github": "https://github.com/MSalman5230/Gameloot-scrape-alert"
+    },
+    {
       "name": "ETA Prediction for Container Ports using Machine Learning",
-      
       "isActive": false,
       "description": "MSc project at University of Liverpool predicting ship delays with 80% accuracy using machine learning techniques.",
       "highlights": [
@@ -508,7 +586,6 @@
     },
     {
       "name": "Diabetes Prediction using XGBoost",
-      
       "isActive": true,
       "description": "Personal project for self-learning diabetes prediction using machine learning techniques.",
       "highlights": [
