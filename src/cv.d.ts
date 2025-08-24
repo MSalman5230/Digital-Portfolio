@@ -47,7 +47,6 @@ interface Work {
   startDate: DateStr;
   endDate: DateStr | null;
   summary: string;
-  highlights: Highlight;
 }
 
 type DateStr = `${string}-${string}-${string}`;
@@ -59,7 +58,6 @@ interface Volunteer {
   startDate: DateStr;
   endDate: DateStr;
   summary: string;
-  highlights: Highlight;
 }
 
 interface Skills {

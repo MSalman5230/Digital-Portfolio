@@ -100,13 +100,8 @@
       "url": "",
       "startDate": "2024-04-01",
       "endDate": null,
-      "summary": "Lead data engineer delivering end-to-end solutions for multiple international clients across fintech, enterprise SaaS, and industrial analytics domains.",
-      "highlights": [
-        "Designed and deployed Azure data pipelines in Databricks (PySpark, SparkSQL) for large-scale data processing",
-        "Led development of enterprise-grade Multi-Stage RAG system combining Python pipelines with LLMs and VectorDB",
-        "Built end-to-end Azure data pipeline using App Functions and CosmosDB with Kimball dimensional modeling",
-        "Developed full-stack AI SaaS app with OpenAI Assistant API, React Native, and PostgreSQL"
-      ],
+      "summary": "Worked as a lead data engineer delivering end-to-end solutions for multiple international clients across fintech, enterprise SaaS, and industrial analytics domains. Responsible for architecting and implementing data platforms, AI solutions, and cloud-based applications.",
+
              "responsibilities": [
          "Designed, built, and deployed Azure data pipelines in Databricks (PySpark, SparkSQL) to ingest large-scale structured and semi-structured datasets from Blob Storage and Azure Cosmos DB, execute complex transformations, and persist curated features in Delta Lake for downstream machine learning workflows",
          "Led development of an enterprise-grade Multi-Stage RAG system for clients, combining Python-based data pipelines (Google Drive, Slack) with LLMs, Langchain, Reranker, and Pinecone VectorDB to deliver highly accurate, context-aware retrieval workflows",
@@ -146,11 +141,7 @@
       "startDate": "2022-02-01",
       "endDate": "2024-03-01",
       "summary": "Architected complete data warehouse solutions and led development of scalable ETL pipelines for financial data processing.",
-      "highlights": [
-        "Architected Kimball style star schema data warehouse using Elasticsearch and BigQuery",
-        "Led implementation of scalable ETL pipelines with Python, GCP Dataflow, and Apache Airflow",
-        "Co-led agile development of secure Savings Platform using FastAPI"
-      ],
+
              "responsibilities": [
          "Architected a Kimball style star schema data warehouse using Elasticsearch and BigQuery, enabling real-time KPI dashboards in Kibana and empowering data-driven decision-making for stakeholders",
          "Led the design and implementation of multiple scalable ETL pipelines with Python, GCP Dataflow, Scrapy, and managed workflow orchestration with Apache Airflow, processing over 10 million financial data rows daily for real-time analytics",
@@ -186,10 +177,7 @@
       "startDate": "2019-06-01",
       "endDate": "2020-10-01",
       "summary": "Delivered actionable insights via Tableau dashboards and automated data collection processes.",
-      "highlights": [
-        "Delivered actionable insights via Tableau dashboards (waterfall/cohort analysis)",
-        "Automated competitor data scraping (Scrapy) and ETL into MySQL"
-      ],
+
              "responsibilities": [
          "Delivered actionable insights via Tableau dashboards (waterfall/cohort analysis), improving stakeholder decision-making",
          "Automated competitor data scraping (Scrapy) and ETL into MySQL, reducing manual effort by 50%",
@@ -564,8 +552,7 @@
         "⚙️ Developed configurable system supporting multiple anime series with customizable quality tags and file paths",
         "🎯 Created smart episode detection algorithm to handle various filename formats and episode numbering schemes",
         "📊 Automated metadata integration that enhances media library organization and viewing experience",
-        "🚀 Streamlined workflow for anime enthusiasts to efficiently manage large episode collections",
-        "⭐ Achieved 1+ star on GitHub demonstrating practical automation and file management expertise"
+        "🚀 Streamlined workflow for anime enthusiasts to efficiently manage large episode collections"
       ],
       "url": "https://github.com/MSalman5230/Anime_Filler_Tagger",
       "github": "https://github.com/MSalman5230/Anime_Filler_Tagger"
@@ -580,8 +567,7 @@
         "🎯 Implemented real-time hand gesture recognition from video feed for gaming applications",
         "🎮 Created practical gaming integration demonstrated with Chrome Dino game control",
         "🔬 Applied transfer learning techniques to optimize model performance for specific gesture recognition tasks",
-        "📊 Structured project workflow with Jupyter notebooks for data collection, training, and detection phases",
-        "⭐ Achieved 2+ stars on GitHub showcasing computer vision and ML expertise"
+        "📊 Structured project workflow with Jupyter notebooks for data collection, training, and detection phases"
       ],
       "url": "https://github.com/MSalman5230/Game_Hand_Gesture",
       "github": "https://github.com/MSalman5230/Game_Hand_Gesture"
@@ -637,11 +623,10 @@
       "highlights": [
         "📊 Exploratory Data Analysis (EDA) with Seaborn and UMAP visualization",
         "⚙️ Tuned XGBoost hyperparameters with Optuna and ML-Flow",
-        "🌐 Deployed using Streamlit framework",
-        "🔗 Live Demo available online"
+        "🌐 Deployed using Streamlit framework"
       ],
-      "url": "https://PredictDiabetes.msalman.de",
-      "github": ""
+      "url": "https://github.com/MSalman5230/Diabetes-Prediction",
+      "github": "https://github.com/MSalman5230/Diabetes-Prediction"
     }
   ]
 }
