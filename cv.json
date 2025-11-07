@@ -7,7 +7,7 @@
     "image": "/DP_cropped.jpg",
     "email": "MSalman5230@gmail.com",
     "url": "https://msalman.de",
-    "summary": "Senior Data Engineer & AI Solutions Architect with 5+ years' experience delivering end-to-end data platforms and intelligent applications across fintech, SaaS, and industrial analytics. Expert in designing scalable data pipelines, building AI-powered systems with LLMs and machine learning models, and deploying robust cloud-native solutions on AWS, Azure, and GCP.",
+    "summary": "Senior Data Engineer & AI Solutions Architect with 5+ years' experience delivering end-to-end data platforms and intelligent applications across fintech, SaaS, and industrial analytics. Expert in designing scalable data pipelines, building AI-powered systems and Agentic AI  with LLMs and machine learning models, and deploying robust cloud-native solutions on AWS, Azure, and GCP.",
     "theme": "blue",
     "location": {
       "address": "Manchester",
@@ -105,6 +105,7 @@
              "responsibilities": [
          "Designed, built, and deployed Azure data pipelines in Databricks (PySpark, SparkSQL) to ingest large-scale structured and semi-structured datasets from Blob Storage and Azure Cosmos DB, execute complex transformations, and persist curated features in Delta Lake for downstream machine learning workflows",
          "Led development of an enterprise-grade Multi-Stage RAG system for clients, combining Python-based data pipelines (Google Drive, Slack) with LLMs, Langchain, Reranker, and Pinecone VectorDB to deliver highly accurate, context-aware retrieval workflows",
+         "Built an automated newsletter system that scrapes news content, formats articles, and delivers scheduled email updates using CrewAI based agentic workflows. ",
          "Designed, built, and deployed an end-to-end Azure data pipeline using App Functions and CosmosDB, applying Kimball dimensional modeling for Power BI datasets with DAX-based measures, enabling KPI reporting and forecasting",
          "Led development of a full-stack AI SaaS app (Android and iOS) leveraging OpenAI Assistant API with a FastAPI backend, React Native (Expo) frontend, and PostgreSQL database, including OAuth 2.0 authentication and integrated Stripe payment processing",
          "Designed and implemented end-to-end CI/CD pipelines for fully automated deployment of containerized applications to AWS, ECS using Docker, Docker Compose, and infrastructure-as-code best practices (Terraform)",
