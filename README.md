@@ -8,7 +8,6 @@ This project is refactored from the original [**dev-portfolio**](https://github.
 
 I use iconify instead of SVG icons for better dev experience.
 
-Thanks for antfu's cool animations.
 
 ## 🛠️ Stack
 
@@ -21,8 +20,6 @@ Thanks for antfu's cool animations.
 
 ## 🚀 Getting Started
 
-### 0. One-click to deploy on Vercel
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/MiraHikari/portfolio&project-name=portfolio&repository-name=portfolio)
 
 Modify the `cv.json` file to create your own printable Portfolio/CV.
 
@@ -30,10 +27,7 @@ Modify the `cv.json` file to create your own printable Portfolio/CV.
 
 - I use [npm](https://www.npmjs.com/) as my package manager.
 
-# Initialize the project
-```bash
-npm create astro@latest --template MiraHikari/portfolio
-```
+
 
 ### 1-1. Clone the repo
 If you don't want to use the template command, you can clone this repo and install the dependencies.
@@ -60,6 +54,7 @@ npm run dev
 Change the data-theme of `cv.json` and choose one of the colour themes defined in theme.css, red, blue, green, cyber, pink and default, with its variants in dark mode, or create your own.
 
 ## 🧞 Commands
+npm run
 
 |     | Command         | Action                                                                       |
 | :-- | :-------------- | :--------------------------------------------------------------------------- |
