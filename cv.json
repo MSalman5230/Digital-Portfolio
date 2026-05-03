@@ -6,8 +6,9 @@
     "label": "Senior Data Engineer & AI Solutions Architect",
     "image": "/DP_cropped.jpg",
     "email": "MSalman5230@gmail.com",
+    "phone": "+44 7552245629",
     "url": "https://msalman.de",
-    "summary": "Senior Data Engineer & AI Solutions Architect with 5+ years' experience delivering end-to-end data platforms and intelligent applications across fintech, SaaS, and industrial analytics. Expert in designing scalable data pipelines, building AI-powered systems and Agentic AI  with LLMs and machine learning models, and deploying robust cloud-native solutions on AWS, Azure, and GCP.",
+    "summary": "Senior Data Engineer & AI Solutions Architect with 5+ years' experience delivering end-to-end data platforms and intelligent applications across fintech, SaaS, and industrial analytics. Expert in designing scalable data pipelines, building AI-powered systems and Agentic AI with LLMs and machine learning models, and deploying robust cloud-native solutions on AWS, Azure, and GCP.",
     "theme": "blue",
     "location": {
       "address": "Manchester",
@@ -96,64 +97,72 @@
       "name": "Helixiora",
       "position": "Senior Data Engineer & AI Solutions Architect",
       "location_type": "Remote",
-      "location": "The Hague, Netherlands",
+      "location": "Netherlands",
       "url": "",
       "startDate": "2024-04-01",
       "endDate": null,
-      "summary": "Worked as a lead data engineer delivering end-to-end solutions for multiple international clients across fintech, enterprise SaaS, and industrial analytics domains. Responsible for architecting and implementing data platforms, AI solutions, and cloud-based applications.",
+      "summary": "Senior data and AI lead delivering customer-facing projects end to end: scalable Azure and AWS data platforms, agentic AI and RAG, LLM fine-tuning and serving, full-stack SaaS, and secure cloud operations with strong stakeholder partnership and mentorship.",
 
-             "responsibilities": [
-         "Designed, built, and deployed Azure data pipelines in Databricks (PySpark, SparkSQL) to ingest large-scale structured and semi-structured datasets from Blob Storage and Azure Cosmos DB, execute complex transformations, and persist curated features in Delta Lake for downstream machine learning workflows",
-         "Led development of an enterprise-grade Multi-Stage Agentic RAG system for clients, combining Python-based data pipelines (Google Drive, Slack) with LLMs, Langchain, LangGraph, Reranker, and Pinecone VectorDB to deliver highly accurate, context-aware retrieval workflows",
-         "Built an automated newsletter system that scrapes news content, formats articles, and delivers scheduled email updates using CrewAI based agentic workflows. ",
-         "Designed, built, and deployed an end-to-end Azure data pipeline using App Functions and CosmosDB, applying Kimball dimensional modeling for Power BI datasets with DAX-based measures, enabling KPI reporting and forecasting",
-         "Led development of a full-stack AI SaaS app (Android and iOS) leveraging OpenAI Assistant API with a FastAPI backend, React Native (Expo) frontend, and PostgreSQL database, including OAuth 2.0 authentication and integrated Stripe payment processing",
-         "Designed and implemented end-to-end CI/CD pipelines for fully automated deployment of containerized applications to AWS, ECS using Docker, Docker Compose, and infrastructure-as-code best practices (Terraform)",
-         "Secured and deployed SaaS applications with SSL, reverse proxies, Zero Trust controls, and firewall rules, optimising load balancing for high availability, and set up logging and monitoring with Prometheus and Grafana to ensure system reliability and observability.",
-         "Provided technical mentorship and conducted code reviews for junior and mid-level engineers, promoting best practices, improving code quality, and accelerating team growth"
-       ],
-             "skills": {
-         "Python": "simple-icons:python",
-         "Databricks": "simple-icons:databricks",
-         "PySpark": "simple-icons:apachespark",
-         "Delta Lake": "simple-icons:delta",
-         "Langchain": "simple-icons:langchain",
-         "Pinecone": "mdi:database-search",
-         "React Native": "mdi:react",
-         "PostgreSQL": "simple-icons:postgresql",
-         "MySQL": "simple-icons:mysql",
-         "Docker": "mdi:docker",
-         "AWS": "simple-icons:amazonaws",
-         "Azure": "simple-icons:microsoftazure",
-         "Terraform": "simple-icons:terraform",
-         "Git": "mdi:git",
-         "Prometheus": "simple-icons:prometheus",
-         "Grafana": "simple-icons:grafana",
-         "SSL": "mdi:lock",
-         "Nginx": "simple-icons:nginx"
-       }
+      "responsibilities": [
+        "Led customer-facing delivery by partnering with stakeholders to design and deploy innovative end-to-end solutions across Azure and AWS, translating business problems into scalable data, AI, and platform architectures",
+        "Designed and built large-scale Azure Databricks pipelines using PySpark and SQL to ingest, clean, and transform multi-source datasets (Blob Storage, Cosmos DB); implemented real-time streaming with Kafka; delivered curated Delta Lake layers aligned with Kimball-style dimensional modeling for analytics and ML workloads",
+        "Led development and deployment of multiple production-grade full-stack AI SaaS platforms on Azure using FastAPI, Next.js, React Native and Expo (Android and iOS), OAuth 2.0, PostgreSQL, and Stripe",
+        "Architected and deployed multi-stage agentic RAG, chatbot, and automation systems using OpenAI Agent SDK, LangChain, LangGraph, CrewAI, Pinecone, and custom Python pipelines integrating Slack and Google Drive",
+        "Built ML-ready datasets in Delta Lake, supported downstream model training, and optimized vector search and reranking pipelines for retrieval quality",
+        "Fine-tuned domain-specific LLMs using Unsloth with LoRA and deployed them into production AI workflows to improve inference accuracy",
+        "Deployed vLLM and llama.cpp for high-performance LLM serving optimized for low latency and high concurrency",
+        "Designed CI/CD with GitHub Actions deploying containerized applications to AWS ECS using Docker, Terraform, and infrastructure as code; implemented Zero-Trust security, SSL/TLS, firewall rules, and secure API gateways",
+        "Implemented centralized logging and monitoring with Prometheus and Grafana for observability",
+        "Mentored engineers through code reviews, architectural guidance, and engineering best practices"
+      ],
+      "skills": {
+        "Python": "simple-icons:python",
+        "PySpark": "simple-icons:apachespark",
+        "SQL": "mdi:database",
+        "Databricks": "simple-icons:databricks",
+        "Delta Lake": "simple-icons:delta",
+        "Kafka": "simple-icons:apachekafka",
+        "FastAPI": "simple-icons:fastapi",
+        "Next.js": "simple-icons:nextdotjs",
+        "React Native": "mdi:react",
+        "Expo": "simple-icons:expo",
+        "LangChain": "simple-icons:langchain",
+        "LangGraph": "simple-icons:langchain",
+        "CrewAI": "mdi:robot-outline",
+        "Pinecone": "mdi:database-search",
+        "PostgreSQL": "simple-icons:postgresql",
+        "MySQL": "simple-icons:mysql",
+        "Docker": "mdi:docker",
+        "AWS": "simple-icons:amazonaws",
+        "Azure": "simple-icons:microsoftazure",
+        "Terraform": "simple-icons:terraform",
+        "GitHub Actions": "simple-icons:githubactions",
+        "Git": "mdi:git",
+        "Prometheus": "simple-icons:prometheus",
+        "Grafana": "simple-icons:grafana",
+        "Nginx": "simple-icons:nginx"
+      }
     },
     {
       "name": "Vaultoro",
       "position": "Senior Data Engineer",
       "location_type": "On-Site",
-      "location": "London, United Kingdom",
+      "location": "Manchester, United Kingdom",
       "url": "",
       "startDate": "2022-02-01",
       "endDate": "2024-03-01",
-      "summary": "Architected complete data warehouse solutions and led development of scalable ETL pipelines for financial data processing.",
+      "summary": "Architected Kimball-style warehousing and scalable financial ETL on GCP; co-led a FastAPI savings product and analytics supporting security and growth.",
 
-             "responsibilities": [
-         "Architected a Kimball style star schema data warehouse using Elasticsearch and BigQuery, enabling real-time KPI dashboards in Kibana and empowering data-driven decision-making for stakeholders",
-         "Led the design and implementation of multiple scalable ETL pipelines with Python, GCP Dataflow, Scrapy, and managed workflow orchestration with Apache Airflow, processing over 10 million financial data rows daily for real-time analytics",
-         "Co-led the agile development of a secure, scalable Savings Platform using FastAPI, delivering the product in 3 months; currently manages $2M+ in monthly customer deposits",
-         "Managed and optimized databases including MongoDB, PostgreSQL, Elasticsearch, and BigQuery by tuning queries, indexes, and partitions, resulting in significant performance improvements",
-         "Conducted deep data analysis with Pandas to detect anomalies and identify potential fraud patterns, enhancing platform security",
-         "Automated data validation workflows using Python scripts, ensuring pipeline integrity and achieving 100% uptime for critical microservices",
-         "Deployed containerized applications with Docker and Kubernetes, ensuring high availability, scalability, and streamlined CI/CD operations",
-         "Developed and implemented a Random Forest classification model to identify high-value clients during signup, enabling personalized onboarding experiences",
-         "Configured and monitored Google Analytics and Tag Manager dashboards to track user behavior and support data-driven marketing strategies"
-       ],
+      "responsibilities": [
+        "Architected a Kimball-style star-schema data warehouse using Elasticsearch and BigQuery for real-time KPI dashboards in Kibana",
+        "Built scalable ETL pipelines with Python, GCP Dataflow, Scrapy, and Apache Airflow processing 10M+ financial rows daily",
+        "Co-led development of a FastAPI-based Savings Platform processing $2M+ monthly deposits",
+        "Optimized MongoDB, PostgreSQL, Elasticsearch, and BigQuery for performance",
+        "Performed anomaly detection and fraud analysis using Pandas",
+        "Automated data validation workflows ensuring pipeline integrity and uptime",
+        "Deployed applications using Docker and Kubernetes",
+        "Built a Random Forest model to identify high-value clients"
+      ],
       "skills": {
         "Python": "simple-icons:python",
         "Elasticsearch": "simple-icons:elasticsearch",
@@ -182,7 +191,7 @@
              "responsibilities": [
          "Delivered actionable insights via Tableau dashboards (waterfall/cohort analysis), improving stakeholder decision-making",
          "Automated competitor data scraping (Scrapy) and ETL into MySQL, reducing manual effort by 50%",
-         "Analyzed sales and geographic data to guide strategic fibre network expansion"
+         "Analyzed sales and geographic data for fiber network expansion strategy"
        ],
       "skills": {
         "Python": "simple-icons:python",
@@ -490,6 +499,138 @@
          "Load Balancing",
          "High Availability"
        ]
+     },
+     {
+       "name": "Kafka",
+       "icon": "simple-icons:apachekafka",
+       "level": "Expert",
+       "keywords": [
+         "Streaming",
+         "Real-time Data",
+         "Event-driven",
+         "Data Pipelines"
+       ]
+     },
+     {
+       "name": "Next.js",
+       "icon": "simple-icons:nextdotjs",
+       "level": "Expert",
+       "keywords": [
+         "React",
+         "Full-stack",
+         "SaaS",
+         "Web"
+       ]
+     },
+     {
+       "name": "Expo",
+       "icon": "simple-icons:expo",
+       "level": "Intermediate",
+       "keywords": [
+         "React Native",
+         "Mobile",
+         "Cross-platform"
+       ]
+     },
+     {
+       "name": "LangGraph",
+       "icon": "simple-icons:langchain",
+       "level": "Expert",
+       "keywords": [
+         "Agentic AI",
+         "Workflows",
+         "LLM Orchestration"
+       ]
+     },
+     {
+       "name": "CrewAI",
+       "icon": "mdi:robot-outline",
+       "level": "Expert",
+       "keywords": [
+         "Multi-agent",
+         "Automation",
+         "LLM Workflows"
+       ]
+     },
+     {
+       "name": "GitHub Actions",
+       "icon": "simple-icons:githubactions",
+       "level": "Expert",
+       "keywords": [
+         "CI/CD",
+         "Automation",
+         "Deployment"
+       ]
+     },
+     {
+       "name": "MLflow",
+       "icon": "simple-icons:mlflow",
+       "level": "Intermediate",
+       "keywords": [
+         "MLOps",
+         "Experiment Tracking",
+         "Model Lifecycle"
+       ]
+     },
+     {
+       "name": "Weaviate",
+       "icon": "mdi:vector-polyline",
+       "level": "Intermediate",
+       "keywords": [
+         "Vector Database",
+         "Semantic Search",
+         "RAG"
+       ]
+     },
+     {
+       "name": "Scikit-learn",
+       "icon": "simple-icons:scikitlearn",
+       "level": "Expert",
+       "keywords": [
+         "Machine Learning",
+         "Classification",
+         "Feature Engineering"
+       ]
+     },
+     {
+       "name": "PyTorch",
+       "icon": "simple-icons:pytorch",
+       "level": "Intermediate",
+       "keywords": [
+         "Deep Learning",
+         "Neural Networks",
+         "ML"
+       ]
+     },
+     {
+       "name": "Django",
+       "icon": "simple-icons:django",
+       "level": "Intermediate",
+       "keywords": [
+         "Web Framework",
+         "Python",
+         "Backend"
+       ]
+     },
+     {
+       "name": "Go",
+       "icon": "simple-icons:go",
+       "level": "Intermediate",
+       "keywords": [
+         "Backend",
+         "Systems",
+         "APIs"
+       ]
+     },
+     {
+       "name": "C++",
+       "icon": "simple-icons:cplusplus",
+       "level": "Intermediate",
+       "keywords": [
+         "Systems",
+         "Performance",
+         "Backend"
+       ]
      }
   ],
   "languages": [
@@ -516,7 +657,10 @@
       "keywords": [
         "Cloud Computing",
         "DevOps",
-        "Software Architecture"
+        "Software Architecture",
+        "Stakeholder Delivery",
+        "Solution Design",
+        "Technical Roadmapping"
       ]
     }
   ],
