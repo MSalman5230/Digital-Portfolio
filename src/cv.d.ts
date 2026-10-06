@@ -11,6 +11,7 @@ export interface CV {
   interests: Array<Interests>;
   references: Array<References>;
   projects: Array<Projects>;
+  professionalProjects: Array<ProfessionalProject>;
 }
 
 interface Basics {
@@ -130,6 +131,21 @@ interface Projects {
   highlights: Highlight;
   url: string;
   github?: string;
+  image?: {
+    url: string;
+    position: "background" | "container";
+    dark?: string;
+  };
+}
+
+interface ProfessionalProject {
+  name: string;
+  company: string;
+  role: string;
+  description: string;
+  highlights: Array<string>;
+  outcome: string;
+  technologies: Array<string>;
 }
 
 interface Interests {
@@ -142,4 +158,4 @@ interface References {
   reference: string;
 }
 
-type Highlight = Array<String>;
+type Highlight = Array<string>;

@@ -4,12 +4,15 @@ import { Icon } from "astro-icon/components";
 
 import { projects } from "@cv";
 import { Image } from "astro:assets";
+import type { CV } from "@/cv";
+
+const personalProjects: CV["projects"] = projects;
 ---
 
-<Section className={Astro.props.className} title="Projects">
+<Section className={Astro.props.className} title="Personal Projects">
   <div class="grid grid-cols-1 gap-3 md:grid-cols-2 print:flex print:flex-col">
     {
-      projects.map(
+      personalProjects.map(
         ({ url, description, highlights, name, isActive, github, image }) => {
           const isBackgroundImage = image && image?.position === "background";
           const isContainerImage = image && image?.position === "container";

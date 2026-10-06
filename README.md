@@ -42,6 +42,10 @@ npm install
 
 Edit the `cv.json` file to create your own printable Portfolio/CV.
 
+Work delivered for employers is listed in `professionalProjects`, grouped by company in the Professional Projects section. Keep GitHub and other personal projects in the separate `projects` list, rendered as Personal Projects.
+
+The experience bullets and `Masood_CV.md` are synchronized with the 7 October 2026 CV. The downloadable copy is served from `public/Masood_CV.pdf`, preserving the `/Masood_CV.pdf` download URL.
+
 ### 3. Launch the Development Server:
 
 ```bash

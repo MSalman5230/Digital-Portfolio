@@ -7,14 +7,14 @@
     "image": "/DP_cropped.jpg",
     "email": "MSalman5230@gmail.com",
     "phone": "+44 7552245629",
-    "url": "https://msalman.de",
+    "url": "https://msalman.cc",
     "summary": "Senior Data Engineer & AI Solutions Architect with 5+ years' experience delivering end-to-end data platforms and intelligent applications across fintech, SaaS, and industrial analytics. Expert in designing scalable data pipelines, building AI-powered systems and Agentic AI with LLMs and machine learning models, and deploying robust cloud-native solutions on AWS, Azure, and GCP.",
     "theme": "blue",
     "location": {
-      "address": "Manchester",
-      "city": "Manchester",
-      "countryCode": "GB",
-      "region": "United Kingdom"
+      "address": "Netherlands",
+      "city": "",
+      "countryCode": "NL",
+      "region": ""
     },
     "profiles": [
       {
@@ -32,8 +32,8 @@
       {
         "network": "Website",
         "icon": "mdi:web",
-        "username": "msalman.de",
-        "url": "https://msalman.de"
+        "username": "msalman.cc",
+        "url": "https://msalman.cc"
       }
     ],
     "beian": {
@@ -104,16 +104,16 @@
       "summary": "Senior data and AI lead delivering customer-facing projects end to end: scalable Azure and AWS data platforms, agentic AI and RAG, LLM fine-tuning and serving, full-stack SaaS, and secure cloud operations with strong stakeholder partnership and mentorship.",
 
       "responsibilities": [
-        "Led customer-facing delivery by partnering with stakeholders to design and deploy innovative end-to-end solutions across Azure and AWS, translating business problems into scalable data, AI, and platform architectures",
-        "Designed and built large-scale Azure Databricks pipelines using PySpark and SQL to ingest, clean, and transform multi-source datasets (Blob Storage, Cosmos DB); implemented real-time streaming with Kafka; delivered curated Delta Lake layers aligned with Kimball-style dimensional modeling for analytics and ML workloads",
-        "Led development and deployment of multiple production-grade full-stack AI SaaS platforms on Azure using FastAPI, Next.js, React Native and Expo (Android and iOS), OAuth 2.0, PostgreSQL, and Stripe",
-        "Architected and deployed multi-stage agentic RAG, chatbot, and automation systems using OpenAI Agent SDK, LangChain, LangGraph, CrewAI, Pinecone, and custom Python pipelines integrating Slack and Google Drive",
-        "Built ML-ready datasets in Delta Lake, supported downstream model training, and optimized vector search and reranking pipelines for retrieval quality",
-        "Fine-tuned domain-specific LLMs using Unsloth with LoRA and deployed them into production AI workflows to improve inference accuracy",
-        "Deployed vLLM and llama.cpp for high-performance LLM serving optimized for low latency and high concurrency",
-        "Designed CI/CD with GitHub Actions deploying containerized applications to AWS ECS using Docker, Terraform, and infrastructure as code; implemented Zero-Trust security, SSL/TLS, firewall rules, and secure API gateways",
-        "Implemented centralized logging and monitoring with Prometheus and Grafana for observability",
-        "Mentored engineers through code reviews, architectural guidance, and engineering best practices"
+        "Client Delivery & Solution Leadership: Led customer-facing project delivery by partnering with stakeholders to design and deploy innovative, end-to-end solutions across Azure and AWS, translating business problems into scalable data, AI, and platform architectures.",
+        "Data Engineering: Designed and built large-scale Azure Databricks pipelines using PySpark and SQL to ingest, clean, and transform multi-source datasets (Blob, CosmosDB); implemented real-time streaming pipelines with Kafka; and delivered curated Delta Lake layers aligned with Kimball-style dimensional modeling and data warehouse best practices to power analytics and ML workloads.",
+        "Full-Stack SaaS: Led the end-to-end development and deployment of multiple production-grade AI SaaS platforms, serving millions of users. Built full-stack solutions using FastAPI, Next.js, and React Native with Expo for Android and iOS, integrating OAuth 2.0 authentication, PostgreSQL, and Stripe to deliver secure, scalable, cloud-native products.",
+        "AI Agents: Architected and deployed multi-stage agentic RAG, Chatbot and automation systems using OpenAI Agent SDK, LangChain, LangGraph, CrewAI, Pinecone, and custom Python pipelines (Slack, Google Drive), enabling accurate context retrieval and intelligent workflow automation.",
+        "Machine Learning Engineering: Built feature-ready datasets in Delta Lake, supported downstream ML model training, and optimized vector search & reranking pipelines, accelerating model iteration cycles and improving retrieval accuracy across enterprise LLM solutions.",
+        "LLM Fine-Tuning: Fine-tuned domain-specific LLMs using Unsloth for specialized business use cases, optimized model performance with LoRA, and deployed the resulting fine-tuned models into production AI workflows, significantly improving inference accuracy.",
+        "LLM Inference & Deployment: Deployed vLLM and llama.cpp for high-performance LLM serving, optimized for low latency and high-concurrency workloads.",
+        "Infrastructure, DevOps & Security: Designed and automated CI/CD pipelines deploying containerized applications to AWS ECS using Docker, Terraform, and GitHub Actions; strengthened platform reliability with load balancing and scalable microservices; and implemented Zero-Trust controls, SSL/TLS hardening, firewall rules, and secure API gateways to ensure robust authentication, authorization, and data protection across SaaS and data platforms.",
+        "Monitoring & Observability: Set up centralized logging, metrics, and dashboards using Prometheus and Grafana, enabling real-time performance monitoring, alerting, and proactive issue resolution across production environments.",
+        "Team Leadership & Mentorship: Led and mentored junior and mid-level engineers through code reviews, architectural guidance, use of AI tools, and best-practice coaching, raising team capability and ensuring high quality engineering delivery."
       ],
       "skills": {
         "Python": "simple-icons:python",
@@ -154,14 +154,14 @@
       "summary": "Architected Kimball-style warehousing and scalable financial ETL on GCP; co-led a FastAPI savings product and analytics supporting security and growth.",
 
       "responsibilities": [
-        "Architected a Kimball-style star-schema data warehouse using Elasticsearch and BigQuery for real-time KPI dashboards in Kibana",
-        "Built scalable ETL pipelines with Python, GCP Dataflow, Scrapy, and Apache Airflow processing 10M+ financial rows daily",
-        "Co-led development of a FastAPI-based Savings Platform processing $2M+ monthly deposits",
-        "Optimized MongoDB, PostgreSQL, Elasticsearch, and BigQuery for performance",
-        "Performed anomaly detection and fraud analysis using Pandas",
-        "Automated data validation workflows ensuring pipeline integrity and uptime",
-        "Deployed applications using Docker and Kubernetes",
-        "Built a Random Forest model to identify high-value clients"
+        "Architected a Kimball-style star-schema data warehouse using Elasticsearch and BigQuery, enabling real-time KPI dashboards in Kibana and supporting data-driven decision making.",
+        "Led the design and implementation of multiple scalable ETL pipelines with Python, GCP Dataflow, Scrapy, and managed workflow orchestration with Apache Airflow, processing over 10 million financial data rows daily for real-time analytics.",
+        "Co-led the development of a secure and scalable FastAPI-based Savings Platform, delivered in 3 months and now processing $2M+ in monthly customer deposits.",
+        "Managed and optimized databases including MongoDB, PostgreSQL, Elasticsearch, and BigQuery by tuning queries, indexes, and partitions, resulting in significant performance improvements.",
+        "Conducted deep data analysis with Pandas to detect anomalies and identify potential fraud patterns, enhancing platform security.",
+        "Automated data validation workflows using Python scripts, ensuring pipeline integrity and achieving 100% uptime for critical microservices.",
+        "Deployed containerized applications with Docker and Kubernetes, ensuring high availability, scalability, and streamlined CI/CD operations.",
+        "Developed and implemented a Random Forest classification model to identify high-value clients during signup, enabling personalized onboarding experiences."
       ],
       "skills": {
         "Python": "simple-icons:python",
@@ -189,9 +189,9 @@
       "summary": "Delivered actionable insights via Tableau dashboards and automated data collection processes.",
 
              "responsibilities": [
-         "Delivered actionable insights via Tableau dashboards (waterfall/cohort analysis), improving stakeholder decision-making",
-         "Automated competitor data scraping (Scrapy) and ETL into MySQL, reducing manual effort by 50%",
-         "Analyzed sales and geographic data for fiber network expansion strategy"
+        "Delivered actionable insights via Tableau dashboards (waterfall/cohort analysis), improving stakeholder decision-making.",
+        "Automated competitor data scraping (Scrapy) and ETL into MySQL, reducing manual labour.",
+        "Analyzed sales and geographic data to guide strategic fibre network expansion."
        ],
       "skills": {
         "Python": "simple-icons:python",
@@ -668,6 +668,125 @@
     {
       "name": "Available upon request",
       "reference": "Professional references available upon request"
+    }
+  ],
+  "professionalProjects": [
+    {
+      "name": "AI Mental Health Assistant Mobile App and Admin Dashboard",
+      "company": "Helixiora",
+      "role": "Solo developer · end-to-end delivery",
+      "description": "Built an AI assistant for mental health support with an iOS and Android app and a Next.js super admin dashboard for the client.",
+      "highlights": [
+        "Designed and implemented the Expo mobile app, FastAPI backend, PostgreSQL database, and AI agent using the OpenAI Agents SDK.",
+        "Built restricted administrative controls and integrated PostHog to track product usage and user engagement.",
+        "Optimized navigation, keyboard handling, and message rendering across iOS and Android; deployed the backend and database with Docker on a VPS."
+      ],
+      "outcome": "Delivered the complete mobile assistant and client admin dashboard independently in one month.",
+      "technologies": ["Expo", "React Native", "Next.js", "OpenAI Agents SDK", "FastAPI", "PostgreSQL", "PostHog", "Docker"]
+    },
+    {
+      "name": "Beweginc Employee Wellbeing and Social Impact Platform",
+      "company": "Helixiora",
+      "role": "Full-stack development",
+      "description": "Developed an employee mobile app and company admin dashboard connecting wellbeing activities and challenges with charitable campaigns.",
+      "highlights": [
+        "Built the Expo employee app and Next.js dashboard on a shared Convex backend with company membership and role checks.",
+        "Implemented activity credits, campaign goals, contribution tracking, and reward rules that preserved historical awards and prevented duplicate completions.",
+        "Shared domain logic and design tokens in a TypeScript monorepo, added English and Dutch support, and coordinated Vercel, Convex, and Expo EAS releases."
+      ],
+      "outcome": "Employees could track personal and team contributions while administrators managed campaigns, rewards, and participation.",
+      "technologies": ["Expo", "React Native", "Next.js", "Convex", "TypeScript", "Turborepo", "Vercel", "Expo EAS"]
+    },
+    {
+      "name": "On Premises RAG and AI Agent Platform",
+      "company": "Helixiora",
+      "role": "Architecture and development leadership",
+      "description": "Designed and led development of an AI platform for chatting with Slack, Confluence, Google Drive, and uploaded documentation using locally hosted models.",
+      "highlights": [
+        "Designed the FastAPI and Next.js application, OAuth source connectors, and LangChain retrieval and agent workflows with source references and permission-aware retrieval.",
+        "Orchestrated incremental document ingestion, local embeddings, and vector indexing with Dagster, retaining ingested content and AI processing on-premises.",
+        "Led llama.cpp model hosting and concurrency tuning, implemented Stripe subscriptions, and enabled user-configurable MCP tool integrations."
+      ],
+      "outcome": "Delivered an extensible agent platform that kept content, indexes, and inference within the client's controlled environment.",
+      "technologies": ["FastAPI", "Next.js", "LangChain", "Dagster", "llama.cpp", "OAuth", "Stripe", "MCP"]
+    },
+    {
+      "name": "IoT Sensor Data Pipeline Optimization",
+      "company": "Helixiora",
+      "role": "Solution design and pipeline implementation",
+      "description": "Moved a growing IoT CSV workload from Azure Functions to Azure Databricks to support fruit and vegetable ripeness-detection ML training.",
+      "highlights": [
+        "Built incremental PySpark ingestion from Azure Blob Storage using Auto Loader and durable checkpoints.",
+        "Implemented Bronze, Silver, and Gold Delta Lake layers for raw records, schema validation, deduplication, and curated training datasets.",
+        "Published datasets to Cosmos DB with deterministic identifiers, idempotent writes, and controlled throughput; tuned Spark partitions and batch sizes."
+      ],
+      "outcome": "Replaced the timeout-prone processing path with a scalable pipeline and traceable, validated datasets for ML training.",
+      "technologies": ["Azure Databricks", "PySpark", "Auto Loader", "Delta Lake", "Azure Blob Storage", "Cosmos DB"]
+    },
+    {
+      "name": "Hospitality Sales and Workforce Dashboard",
+      "company": "Helixiora",
+      "role": "Data integration and BI delivery",
+      "description": "Built a consolidated view of restaurant sales, employee working hours, and performance across hotel and restaurant locations.",
+      "highlights": [
+        "Integrated HR, workforce, and order APIs using scheduled Azure Functions and Cosmos DB, aligning location identifiers across sources.",
+        "Modeled sales and worked-hours facts with shared date and location dimensions in Power BI and built DAX measures for sales, hours, and sales per worked hour.",
+        "Added incremental upserts, source reconciliation, Application Insights monitoring, and refresh coordination to keep reporting accurate and current."
+      ],
+      "outcome": "Enabled the owner to compare locations, inspect employee hours, and make informed staffing and scheduling decisions.",
+      "technologies": ["Azure Functions", "Cosmos DB", "REST APIs", "Power BI", "Power Query", "DAX", "Application Insights"]
+    },
+    {
+      "name": "Inappropriate Language Filter with LLM Fine-Tuning",
+      "company": "Helixiora",
+      "role": "Model training, evaluation, and implementation",
+      "description": "Fine-tuned a small open-source LLM on client data to classify inappropriate language in context using Unsloth and LoRA adapters.",
+      "highlights": [
+        "Prepared labeled examples and separate training, validation, and held-out test sets, grouping related examples to reduce data leakage.",
+        "Tuned LoRA training settings and evaluated precision, recall, F1, false positives, and false negatives.",
+        "Integrated validated moderation outputs and versioned datasets, model artifacts, and evaluation results for repeatable updates and rollback."
+      ],
+      "outcome": "Reached around 98% overall accuracy with inference below one second and lower inference costs.",
+      "technologies": ["Python", "Unsloth", "LoRA", "Open-source LLM", "Supervised fine-tuning"]
+    },
+    {
+      "name": "BI and Analytics Platform",
+      "company": "Vaultoro",
+      "role": "End-to-end project ownership",
+      "description": "Created a centralized warehouse and BI platform so owners and board members could review business performance without requesting database reports from developers.",
+      "highlights": [
+        "Designed a BigQuery warehouse using Kimball star schemas and ingested application and financial data from MongoDB and PostgreSQL with Python.",
+        "Orchestrated pipelines with Apache Airflow on GCP and built Google Data Studio dashboards for profit margins, customers, and business performance.",
+        "Implemented incremental, idempotent loading with staging, deduplication, financial reconciliation, checkpoint transactions, and recoverable batches."
+      ],
+      "outcome": "Gave business stakeholders direct access to consolidated financial and customer reporting, reducing dependence on developer-prepared reports.",
+      "technologies": ["BigQuery", "Python", "Apache Airflow", "GCP", "MongoDB", "PostgreSQL", "Google Data Studio"]
+    },
+    {
+      "name": "Fraud and Money Laundering Detection",
+      "company": "Vaultoro",
+      "role": "Technical design and implementation",
+      "description": "Built daily monitoring of suspicious financial activity with explainable detection rules and a dashboard for investigation.",
+      "highlights": [
+        "Analyzed historical transactions and worked with a financial expert to define rules, thresholds, and review priorities.",
+        "Implemented a configurable Python rule engine and an investigation dashboard showing supporting transactions, triggered rules, and review statuses.",
+        "Deployed with Docker on GCP and added deterministic alert keys, incremental checks, validation, monitoring, and replayable evaluation windows."
+      ],
+      "outcome": "Made suspicious patterns and supporting evidence visible in one dashboard so reviewers could prioritize and investigate potential financial crime.",
+      "technologies": ["Python", "Docker", "GCP", "Rule-based detection", "Transaction analysis", "Monitoring dashboards"]
+    },
+    {
+      "name": "Investment App Backend and BI",
+      "company": "Vaultoro",
+      "role": "Backend architecture, database design, and BI ownership",
+      "description": "Owned the shared backend and MongoDB data model for a mobile and web investment app, with a reporting system ready before launch.",
+      "highlights": [
+        "Built FastAPI endpoints for investments, transaction history, and status tracking with Pydantic validation and customer-scoped access.",
+        "Designed financial records with decimal precision, guarded status transitions, audit history, and idempotent investment requests.",
+        "Built incremental MongoDB-to-BigQuery pipelines and Google Data Studio dashboards, validating investment totals and transaction outcomes before launch."
+      ],
+      "outcome": "The team delivered the app in three months, and customers invested over $2 million through the platform.",
+      "technologies": ["Python", "FastAPI", "Pydantic", "MongoDB", "BigQuery", "Google Data Studio"]
     }
   ],
   "projects": [
